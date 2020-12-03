@@ -8,7 +8,7 @@ import javax.sound.sampled.AudioInputStream;
 import javax.sound.sampled.Clip;
 import javax.sound.sampled.AudioSystem;
 
-// requires sound.wav file to work
+// requires sound.wav file to play audio when pressing the button
 
 public class Chooser implements ActionListener {
 
